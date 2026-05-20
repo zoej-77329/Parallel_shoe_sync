@@ -28,7 +28,7 @@ A premium, high-performance sneaker price aggregator built with a **Luxury Cyber
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/msumar7426/shoesync.git
+   git clone https://github.com/zoej-77329/Parallel_shoe_sync.git
    cd shoesync
    ```
 
@@ -48,6 +48,3 @@ A premium, high-performance sneaker price aggregator built with a **Luxury Cyber
 docker build -t shoesync .
 docker run -p 7860:7860 shoesync
 ```
-
----
-Developed by [msumar7426](https://github.com/msumar7426)
