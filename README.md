@@ -1,8 +1,5 @@
 # 👟 ShoeSync — Parallel Sneaker Intelligence Platform
 
-[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/msumar2011/Parallel_Shoe_Sync)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A premium, high-performance sneaker price aggregator built with a **Luxury Cyberpunk** aesthetic. ShoeSync leverages a parallel distributed scraping engine to query multiple retailers simultaneously, providing real-time pricing intelligence with a cinematic user experience.
 
 ![Hero Preview](https://github.com/user-attachments/assets/your-screenshot-here)
